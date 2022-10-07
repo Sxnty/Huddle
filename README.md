@@ -31,8 +31,6 @@ Users should be able to:
 
 This challenge helped me to improve my knowledge using media queries to make the site responsive
 
-To see how you can add code snippets, see below:
-
 
 
 ### Useful resources
